@@ -1,0 +1,1 @@
+print("Projeto Python funcionando!")
